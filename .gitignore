@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/build/
+/src/test/
+/2-TP2-ASDOMI.pdf
+/build.gradle.kts
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle.kts
+/src/main/resources/
+/gradle/
+/build/
+/.idea/
+/.gradle/
